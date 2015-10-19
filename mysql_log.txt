@@ -1,0 +1,11 @@
+[21:58:02] [ERROR] CMySQLQuery::Execute[OnPlayerDataLoaded] - (error #1146) Table 'blank.players' doesn't exist
+[21:59:44] [ERROR] CMySQLQuery::Execute[OnPlayerDataLoaded] - (error #1146) Table 'blank.players' doesn't exist
+[22:01:30] [ERROR] CMySQLQuery::Execute[OnPlayerDataLoaded] - (error #1146) Table 'blank.players' doesn't exist
+[23:16:00] [WARNING] cache_get_row - no active cache
+[23:17:49] [WARNING] cache_get_row - no active cache
+[23:18:29] [WARNING] cache_get_row - no active cache
+[23:19:02] [WARNING] cache_get_row - no active cache
+[23:32:01] [WARNING] cache_get_row - no active cache
+[01:07:25] [WARNING] CMySQLResult::GetRowData - invalid row ('0') or field index ('0')
+[01:15:01] [WARNING] CMySQLResult::GetRowData - invalid row ('0') or field index ('0')
+[17:18:55] [WARNING] CMySQLResult::GetRowData - invalid row ('0') or field index ('0')

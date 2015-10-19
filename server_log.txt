@@ -81,3 +81,1044 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [16:55:17] [connection] incoming connection: 127.0.0.1:49443 id: 0
 [16:55:17] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
 [16:58:51] [part] Mr_Fabugo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:28:51] filterscripts = ""  (string)
+[19:28:51] 
+[19:28:51] Server Plugins
+[19:28:51] --------------
+[19:28:51]  Loaded 0 plugins.
+
+[19:28:51] 
+[19:28:51] Filterscripts
+[19:28:51] ---------------
+[19:28:51]   Loaded 0 filterscripts.
+
+[19:28:51] 
+----------------------------------
+[19:28:51]  Blank Gamemode by your name here
+[19:28:51] ----------------------------------
+
+[19:28:51] Number of vehicle models: 0
+[19:29:15] [connection] 127.0.0.1:54414 requests connection cookie.
+[19:29:16] [connection] incoming connection: 127.0.0.1:54414 id: 0
+[19:29:17] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[19:31:08] [part] Mr_Fabugo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:32:37] filterscripts = ""  (string)
+[20:32:37] 
+[20:32:37] Server Plugins
+[20:32:37] --------------
+[20:32:37]  Loaded 0 plugins.
+
+[20:32:37] 
+[20:32:37] Filterscripts
+[20:32:37] ---------------
+[20:32:37]   Loaded 0 filterscripts.
+
+[20:32:37] 
+----------------------------------
+[20:32:37]  Blank Gamemode by your name here
+[20:32:37] ----------------------------------
+
+[20:32:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:35:09] filterscripts = ""  (string)
+[20:35:09] 
+[20:35:09] Server Plugins
+[20:35:09] --------------
+[20:35:09]  Loaded 0 plugins.
+
+[20:35:09] 
+[20:35:09] Filterscripts
+[20:35:09] ---------------
+[20:35:09]   Loaded 0 filterscripts.
+
+[20:35:09] 
+----------------------------------
+[20:35:09]  Blank Gamemode by your name here
+[20:35:09] ----------------------------------
+
+[20:35:09] Number of vehicle models: 0
+[20:35:27] [connection] 127.0.0.1:51163 requests connection cookie.
+[20:35:28] [connection] incoming connection: 127.0.0.1:51163 id: 0
+[20:35:28] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+Console input: restart
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:39:29] filterscripts = ""  (string)
+[20:39:29] 
+[20:39:29] Server Plugins
+[20:39:29] --------------
+[20:39:29]  Loaded 0 plugins.
+
+[20:39:29] 
+[20:39:29] Filterscripts
+[20:39:29] ---------------
+[20:39:29]   Loaded 0 filterscripts.
+
+[20:39:29] 
+----------------------------------
+[20:39:29]  Blank Gamemode by your name here
+[20:39:29] ----------------------------------
+
+[20:39:29] Number of vehicle models: 0
+[20:39:46] [connection] 127.0.0.1:54407 requests connection cookie.
+[20:39:47] [connection] incoming connection: 127.0.0.1:54407 id: 0
+[20:39:47] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[20:40:41] [part] Mr_Fabugo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:34:20] filterscripts = ""  (string)
+[21:34:20] 
+[21:34:20] Server Plugins
+[21:34:20] --------------
+[21:34:20]  Loaded 0 plugins.
+
+[21:34:20] 
+[21:34:20] Filterscripts
+[21:34:20] ---------------
+[21:34:20]   Loaded 0 filterscripts.
+
+[21:34:20] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[21:34:20] Number of vehicle models: 0
+[21:34:43] [connection] 127.0.0.1:57323 requests connection cookie.
+[21:34:44] [connection] incoming connection: 127.0.0.1:57323 id: 0
+[21:34:44] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[21:34:58] [part] Mr_Fabugo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:35:42] filterscripts = ""  (string)
+[21:35:42] 
+[21:35:42] Server Plugins
+[21:35:42] --------------
+[21:35:42]  Loaded 0 plugins.
+
+[21:35:43] 
+[21:35:43] Filterscripts
+[21:35:43] ---------------
+[21:35:43]   Loaded 0 filterscripts.
+
+[21:35:43] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[21:35:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:36:38] filterscripts = ""  (string)
+[21:36:38] 
+[21:36:38] Server Plugins
+[21:36:38] --------------
+[21:36:38]  Loaded 0 plugins.
+
+[21:36:38] 
+[21:36:38] Filterscripts
+[21:36:38] ---------------
+[21:36:38]   Loaded 0 filterscripts.
+
+[21:36:38] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[21:36:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:37:29] filterscripts = ""  (string)
+[21:37:29] 
+[21:37:29] Server Plugins
+[21:37:29] --------------
+[21:37:29]  Loaded 0 plugins.
+
+[21:37:29] 
+[21:37:29] Filterscripts
+[21:37:29] ---------------
+[21:37:29]   Loaded 0 filterscripts.
+
+[21:37:29] 
+----------------------------------
+[21:37:29]  Blank Gamemode by your name here
+[21:37:29] ----------------------------------
+
+[21:37:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:42:14] filterscripts = ""  (string)
+[21:42:14] 
+[21:42:14] Server Plugins
+[21:42:14] --------------
+[21:42:14]  Loaded 0 plugins.
+
+[21:42:15] 
+[21:42:15] Filterscripts
+[21:42:15] ---------------
+[21:42:15]   Loaded 0 filterscripts.
+
+[21:42:15] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[21:42:15] Number of vehicle models: 0
+[21:42:35] [connection] 127.0.0.1:50626 requests connection cookie.
+[21:42:36] [connection] incoming connection: 127.0.0.1:50626 id: 0
+[21:42:37] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:43:42] filterscripts = ""  (string)
+[21:43:42] 
+[21:43:42] Server Plugins
+[21:43:42] --------------
+[21:43:42]  Loaded 0 plugins.
+
+[21:43:42] 
+[21:43:42] Filterscripts
+[21:43:42] ---------------
+[21:43:42]   Loaded 0 filterscripts.
+
+[21:43:42] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[21:43:42] Number of vehicle models: 0
+[21:43:54] [connection] 127.0.0.1:52103 requests connection cookie.
+[21:43:55] [connection] incoming connection: 127.0.0.1:52103 id: 0
+[21:43:56] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:56] filterscripts = ""  (string)
+[21:45:56] 
+[21:45:56] Server Plugins
+[21:45:56] --------------
+[21:45:56]  Loaded 0 plugins.
+
+[21:45:56] 
+[21:45:56] Filterscripts
+[21:45:56] ---------------
+[21:45:56]   Loaded 0 filterscripts.
+
+[21:45:56] 
+----------------------------------
+[21:45:56]  Blank Gamemode by your name here
+[21:45:56] ----------------------------------
+
+[21:45:56] Number of vehicle models: 0
+[21:45:57] [connection] 127.0.0.1:50964 requests connection cookie.
+[21:45:58] [connection] incoming connection: 127.0.0.1:50964 id: 0
+[21:45:58] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:49:52] filterscripts = ""  (string)
+[21:49:52] 
+[21:49:52] Server Plugins
+[21:49:52] --------------
+[21:49:52]  Loaded 0 plugins.
+
+[21:49:52] 
+[21:49:52] Filterscripts
+[21:49:52] ---------------
+[21:49:52]   Loaded 0 filterscripts.
+
+[21:49:52] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[21:49:52] Number of vehicle models: 0
+[21:49:53] [connection] 127.0.0.1:60556 requests connection cookie.
+[21:49:54] [connection] incoming connection: 127.0.0.1:60556 id: 0
+[21:49:54] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:51:05] filterscripts = ""  (string)
+[21:51:05] 
+[21:51:05] Server Plugins
+[21:51:05] --------------
+[21:51:05]  Loaded 0 plugins.
+
+[21:51:05] 
+[21:51:05] Filterscripts
+[21:51:05] ---------------
+[21:51:05]   Loaded 0 filterscripts.
+
+[21:51:05] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[21:51:05] Number of vehicle models: 0
+[21:51:18] [connection] 127.0.0.1:60572 requests connection cookie.
+[21:51:19] [connection] incoming connection: 127.0.0.1:60572 id: 0
+[21:51:19] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:54] filterscripts = ""  (string)
+[21:54:54] 
+[21:54:54] Server Plugins
+[21:54:54] --------------
+[21:54:54]  Loaded 0 plugins.
+
+[21:54:54] 
+[21:54:54] Filterscripts
+[21:54:54] ---------------
+[21:54:54]   Loaded 0 filterscripts.
+
+[21:54:54] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[21:54:54] Number of vehicle models: 0
+[21:54:54] [connection] 127.0.0.1:51728 requests connection cookie.
+[21:54:55] [connection] incoming connection: 127.0.0.1:51728 id: 0
+[21:54:56] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:58:00] filterscripts = ""  (string)
+[21:58:00] 
+[21:58:00] Server Plugins
+[21:58:00] --------------
+[21:58:00]  Loading plugin: mysql
+[21:58:00]  >> plugin.mysql: R39-3 successfully loaded.
+[21:58:00]   Loaded.
+[21:58:00]  Loaded 1 plugins.
+
+[21:58:01] 
+[21:58:01] Filterscripts
+[21:58:01] ---------------
+[21:58:01]   Loaded 0 filterscripts.
+
+[21:58:01] Conected
+[21:58:01] 
+----------------------------------
+[21:58:01]  Blank Gamemode by your name here
+[21:58:01] ----------------------------------
+
+[21:58:01] Number of vehicle models: 0
+[21:58:01] [connection] 127.0.0.1:65322 requests connection cookie.
+[21:58:02] [connection] incoming connection: 127.0.0.1:65322 id: 0
+[21:58:02] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:59:20] filterscripts = ""  (string)
+[21:59:20] 
+[21:59:20] Server Plugins
+[21:59:20] --------------
+[21:59:20]  Loading plugin: mysql
+[21:59:20]  >> plugin.mysql: R39-3 successfully loaded.
+[21:59:20]   Loaded.
+[21:59:20]  Loaded 1 plugins.
+
+[21:59:20] 
+[21:59:20] Filterscripts
+[21:59:20] ---------------
+[21:59:20]   Loaded 0 filterscripts.
+
+[21:59:21] Conected
+[21:59:21] 
+----------------------------------
+[21:59:21]  Blank Gamemode by your name here
+[21:59:21] ----------------------------------
+
+[21:59:21] Number of vehicle models: 0
+[21:59:41] [connection] 127.0.0.1:56896 requests connection cookie.
+[21:59:42] [connection] incoming connection: 127.0.0.1:56896 id: 0
+[21:59:44] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:01:08] filterscripts = ""  (string)
+[22:01:08] 
+[22:01:08] Server Plugins
+[22:01:08] --------------
+[22:01:08]  Loading plugin: mysql
+[22:01:08]  >> plugin.mysql: R39-3 successfully loaded.
+[22:01:08]   Loaded.
+[22:01:08]  Loaded 1 plugins.
+
+[22:01:08] 
+[22:01:08] Filterscripts
+[22:01:08] ---------------
+[22:01:08]   Loaded 0 filterscripts.
+
+[22:01:08] Conected
+[22:01:08] 
+----------------------------------
+[22:01:08]  Blank Gamemode by your name here
+[22:01:08] ----------------------------------
+
+[22:01:08] Number of vehicle models: 0
+[22:01:29] [connection] 127.0.0.1:59893 requests connection cookie.
+[22:01:30] [connection] incoming connection: 127.0.0.1:59893 id: 0
+[22:01:30] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:03:45] filterscripts = ""  (string)
+[22:03:45] 
+[22:03:45] Server Plugins
+[22:03:45] --------------
+[22:03:45]  Loading plugin: mysql
+[22:03:45]  >> plugin.mysql: R39-3 successfully loaded.
+[22:03:45]   Loaded.
+[22:03:45]  Loaded 1 plugins.
+
+[22:03:45] 
+[22:03:45] Filterscripts
+[22:03:45] ---------------
+[22:03:45]   Loaded 0 filterscripts.
+
+[22:03:45] Conected
+[22:03:45] 
+----------------------------------
+[22:03:45]  Blank Gamemode by your name here
+[22:03:45] ----------------------------------
+
+[22:03:45] Number of vehicle models: 0
+[22:04:00] [connection] 127.0.0.1:58388 requests connection cookie.
+[22:04:01] [connection] incoming connection: 127.0.0.1:58388 id: 0
+[22:04:01] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[22:04:01] There are 0 players with the same name.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:08:01] filterscripts = ""  (string)
+[22:08:01] 
+[22:08:01] Server Plugins
+[22:08:01] --------------
+[22:08:01]  Loading plugin: mysql
+[22:08:01]  >> plugin.mysql: R39-3 successfully loaded.
+[22:08:01]   Loaded.
+[22:08:01]  Loaded 1 plugins.
+
+[22:08:01] 
+[22:08:01] Filterscripts
+[22:08:01] ---------------
+[22:08:01]   Loaded 0 filterscripts.
+
+[22:08:01] Conected
+[22:08:01] 
+----------------------------------
+[22:08:01]  Blank Gamemode by your name here
+[22:08:01] ----------------------------------
+
+[22:08:01] Number of vehicle models: 0
+[22:08:03] [connection] 127.0.0.1:59412 requests connection cookie.
+[22:08:04] [connection] incoming connection: 127.0.0.1:59412 id: 0
+[22:08:04] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[22:08:04] There are 1 players with the same name.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:15:01] filterscripts = ""  (string)
+[22:15:01] 
+[22:15:01] Server Plugins
+[22:15:01] --------------
+[22:15:01]  Loading plugin: mysql
+[22:15:01]  >> plugin.mysql: R39-3 successfully loaded.
+[22:15:01]   Loaded.
+[22:15:01]  Loaded 1 plugins.
+
+[22:15:01] 
+[22:15:01] Filterscripts
+[22:15:01] ---------------
+[22:15:01]   Loaded 0 filterscripts.
+
+[22:15:02] Conected
+[22:15:02] 
+----------------------------------
+[22:15:02]  Blank Gamemode by your name here
+[22:15:02] ----------------------------------
+
+[22:15:02] Number of vehicle models: 0
+[22:15:02] [connection] 127.0.0.1:56773 requests connection cookie.
+[22:15:03] [connection] incoming connection: 127.0.0.1:56773 id: 0
+[22:15:04] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[22:15:04] The very first value in the current result set is 'asd456'.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:29:30] filterscripts = ""  (string)
+[22:29:30] 
+[22:29:30] Server Plugins
+[22:29:30] --------------
+[22:29:30]  Loading plugin: mysql
+[22:29:30]  >> plugin.mysql: R39-3 successfully loaded.
+[22:29:30]   Loaded.
+[22:29:30]  Loaded 1 plugins.
+
+[22:29:30] 
+[22:29:30] Filterscripts
+[22:29:30] ---------------
+[22:29:30]   Loaded 0 filterscripts.
+
+[22:29:30] Conected
+[22:29:30] 
+----------------------------------
+[22:29:30]  Blank Gamemode by your name here
+[22:29:30] ----------------------------------
+
+[22:29:30] Number of vehicle models: 0
+[22:29:31] [connection] 127.0.0.1:53998 requests connection cookie.
+[22:29:32] [connection] incoming connection: 127.0.0.1:53998 id: 0
+[22:29:32] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:03:43] filterscripts = ""  (string)
+[23:03:43] 
+[23:03:43] Server Plugins
+[23:03:43] --------------
+[23:03:43]  Loading plugin: mysql
+[23:03:43]  >> plugin.mysql: R39-3 successfully loaded.
+[23:03:43]   Loaded.
+[23:03:43]  Loaded 1 plugins.
+
+[23:03:43] 
+[23:03:43] Filterscripts
+[23:03:43] ---------------
+[23:03:43]   Loaded 0 filterscripts.
+
+[23:03:43] Conected
+[23:03:43] 
+----------------------------------
+[23:03:43]  Blank Gamemode by your name here
+[23:03:43] ----------------------------------
+
+[23:03:43] Number of vehicle models: 0
+[23:05:09] [connection] 127.0.0.1:57171 requests connection cookie.
+[23:05:10] [connection] incoming connection: 127.0.0.1:57171 id: 0
+[23:05:10] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:15:40] filterscripts = ""  (string)
+[23:15:40] 
+[23:15:40] Server Plugins
+[23:15:40] --------------
+[23:15:40]  Loading plugin: mysql
+[23:15:40]  >> plugin.mysql: R39-3 successfully loaded.
+[23:15:40]   Loaded.
+[23:15:40]  Loaded 1 plugins.
+
+[23:15:40] 
+[23:15:40] Filterscripts
+[23:15:40] ---------------
+[23:15:40]   Loaded 0 filterscripts.
+
+[23:15:40] Conected
+[23:15:40] 
+----------------------------------
+[23:15:40]  Blank Gamemode by your name here
+[23:15:40] ----------------------------------
+
+[23:15:40] Number of vehicle models: 0
+[23:15:40] [connection] 127.0.0.1:51895 requests connection cookie.
+[23:15:41] [connection] incoming connection: 127.0.0.1:51895 id: 0
+[23:15:41] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[23:16:00] %s
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:17:39] filterscripts = ""  (string)
+[23:17:39] 
+[23:17:39] Server Plugins
+[23:17:39] --------------
+[23:17:39]  Loading plugin: mysql
+[23:17:39]  >> plugin.mysql: R39-3 successfully loaded.
+[23:17:39]   Loaded.
+[23:17:39]  Loaded 1 plugins.
+
+[23:17:39] 
+[23:17:39] Filterscripts
+[23:17:39] ---------------
+[23:17:39]   Loaded 0 filterscripts.
+
+[23:17:39] Conected
+[23:17:39] 
+----------------------------------
+[23:17:39]  Blank Gamemode by your name here
+[23:17:39] ----------------------------------
+
+[23:17:39] Number of vehicle models: 0
+[23:17:45] [connection] 127.0.0.1:50250 requests connection cookie.
+[23:17:46] [connection] incoming connection: 127.0.0.1:50250 id: 0
+[23:17:46] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[23:17:49] '%s'
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:18:24] filterscripts = ""  (string)
+[23:18:24] 
+[23:18:24] Server Plugins
+[23:18:24] --------------
+[23:18:24]  Loading plugin: mysql
+[23:18:24]  >> plugin.mysql: R39-3 successfully loaded.
+[23:18:24]   Loaded.
+[23:18:24]  Loaded 1 plugins.
+
+[23:18:24] 
+[23:18:24] Filterscripts
+[23:18:24] ---------------
+[23:18:24]   Loaded 0 filterscripts.
+
+[23:18:24] Conected
+[23:18:24] 
+----------------------------------
+[23:18:24]  Blank Gamemode by your name here
+[23:18:24] ----------------------------------
+
+[23:18:24] Number of vehicle models: 0
+[23:18:25] [connection] 127.0.0.1:55668 requests connection cookie.
+[23:18:26] [connection] incoming connection: 127.0.0.1:55668 id: 0
+[23:18:27] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[23:18:29] '%s'
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:18:45] filterscripts = ""  (string)
+[23:18:45] 
+[23:18:45] Server Plugins
+[23:18:45] --------------
+[23:18:45]  Loading plugin: mysql
+[23:18:45]  >> plugin.mysql: R39-3 successfully loaded.
+[23:18:45]   Loaded.
+[23:18:45]  Loaded 1 plugins.
+
+[23:18:45] 
+[23:18:45] Filterscripts
+[23:18:45] ---------------
+[23:18:45]   Loaded 0 filterscripts.
+
+[23:18:45] Conected
+[23:18:45] 
+----------------------------------
+[23:18:45]  Blank Gamemode by your name here
+[23:18:45] ----------------------------------
+
+[23:18:45] Number of vehicle models: 0
+[23:18:59] [connection] 127.0.0.1:55671 requests connection cookie.
+[23:19:00] [connection] incoming connection: 127.0.0.1:55671 id: 0
+[23:19:00] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[23:19:02] The very first value in the current result set is ''.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:31:54] filterscripts = ""  (string)
+[23:31:54] 
+[23:31:54] Server Plugins
+[23:31:54] --------------
+[23:31:54]  Loading plugin: mysql
+[23:31:54]  >> plugin.mysql: R39-3 successfully loaded.
+[23:31:54]   Loaded.
+[23:31:54]  Loaded 1 plugins.
+
+[23:31:54] 
+[23:31:54] Filterscripts
+[23:31:54] ---------------
+[23:31:54]   Loaded 0 filterscripts.
+
+[23:31:54] Conected
+[23:31:54] 
+----------------------------------
+[23:31:54]  Blank Gamemode by your name here
+[23:31:54] ----------------------------------
+
+[23:31:54] Number of vehicle models: 0
+[23:31:54] [connection] 127.0.0.1:55404 requests connection cookie.
+[23:31:55] [connection] incoming connection: 127.0.0.1:55404 id: 0
+[23:31:57] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[23:32:01] The very first value in the current result set is ''.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:33:23] filterscripts = ""  (string)
+[23:33:23] 
+[23:33:23] Server Plugins
+[23:33:23] --------------
+[23:33:23]  Loading plugin: mysql
+[23:33:23]  >> plugin.mysql: R39-3 successfully loaded.
+[23:33:23]   Loaded.
+[23:33:23]  Loaded 1 plugins.
+
+[23:33:23] 
+[23:33:23] Filterscripts
+[23:33:23] ---------------
+[23:33:23]   Loaded 0 filterscripts.
+
+[23:33:23] Conected
+[23:33:23] 
+----------------------------------
+[23:33:23]  Blank Gamemode by your name here
+[23:33:23] ----------------------------------
+
+[23:33:23] Number of vehicle models: 0
+[23:33:41] [connection] 127.0.0.1:54144 requests connection cookie.
+[23:33:42] [connection] incoming connection: 127.0.0.1:54144 id: 0
+[23:33:43] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[23:33:46] Player logou com sucesso
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:33:58] filterscripts = ""  (string)
+[23:33:58] 
+[23:33:58] Server Plugins
+[23:33:58] --------------
+[23:33:58]  Loading plugin: mysql
+[23:33:58]  >> plugin.mysql: R39-3 successfully loaded.
+[23:33:58]   Loaded.
+[23:33:58]  Loaded 1 plugins.
+
+[23:33:58] 
+[23:33:58] Filterscripts
+[23:33:58] ---------------
+[23:33:58]   Loaded 0 filterscripts.
+
+[23:33:58] Conected
+[23:33:58] 
+----------------------------------
+[23:33:58]  Blank Gamemode by your name here
+[23:33:58] ----------------------------------
+
+[23:33:58] Number of vehicle models: 0
+[23:34:13] [connection] 127.0.0.1:54145 requests connection cookie.
+[23:34:14] [connection] incoming connection: 127.0.0.1:54145 id: 0
+[23:34:14] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[23:34:25] Player logou com sucesso
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:06:40] filterscripts = ""  (string)
+[01:06:40] 
+[01:06:40] Server Plugins
+[01:06:40] --------------
+[01:06:40]  Loading plugin: mysql
+[01:06:40]  >> plugin.mysql: R39-3 successfully loaded.
+[01:06:40]   Loaded.
+[01:06:40]  Loaded 1 plugins.
+
+[01:06:40] 
+[01:06:40] Filterscripts
+[01:06:40] ---------------
+[01:06:40]   Loaded 0 filterscripts.
+
+[01:06:40] Conected
+[01:06:40] 
+----------------------------------
+[01:06:40]  Blank Gamemode by your name here
+[01:06:40] ----------------------------------
+
+[01:06:40] Number of vehicle models: 0
+[01:06:41] [connection] 127.0.0.1:54291 requests connection cookie.
+[01:06:42] [connection] incoming connection: 127.0.0.1:54291 id: 0
+[01:06:42] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:06:48] filterscripts = ""  (string)
+[01:06:48] 
+[01:06:48] Server Plugins
+[01:06:48] --------------
+[01:06:48]  Loading plugin: mysql
+[01:06:48]  >> plugin.mysql: R39-3 successfully loaded.
+[01:06:48]   Loaded.
+[01:06:48]  Loaded 1 plugins.
+
+[01:06:48] 
+[01:06:48] Filterscripts
+[01:06:48] ---------------
+[01:06:48]   Loaded 0 filterscripts.
+
+[01:06:48] Conected
+[01:06:48] 
+----------------------------------
+[01:06:48]  Blank Gamemode by your name here
+[01:06:48] ----------------------------------
+
+[01:06:48] Number of vehicle models: 0
+[01:07:24] [connection] 127.0.0.1:64014 requests connection cookie.
+[01:07:25] [connection] incoming connection: 127.0.0.1:64014 id: 0
+[01:07:25] [join] Mr_Fabug0 has joined the server (0:127.0.0.1)
+[01:07:36] [part] Mr_Fabug0 has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:14:18] filterscripts = ""  (string)
+[01:14:18] 
+[01:14:18] Server Plugins
+[01:14:18] --------------
+[01:14:18]  Loading plugin: mysql
+[01:14:18]  >> plugin.mysql: R39-3 successfully loaded.
+[01:14:18]   Loaded.
+[01:14:18]  Loaded 1 plugins.
+
+[01:14:19] 
+[01:14:19] Filterscripts
+[01:14:19] ---------------
+[01:14:19]   Loaded 0 filterscripts.
+
+[01:14:19] Conected
+[01:14:19] 
+----------------------------------
+[01:14:19]  Blank Gamemode by your name here
+[01:14:19] ----------------------------------
+
+[01:14:19] Number of vehicle models: 0
+[01:15:00] [connection] 127.0.0.1:54820 requests connection cookie.
+[01:15:01] [connection] incoming connection: 127.0.0.1:54820 id: 0
+[01:15:01] [join] Mr_Fabug0 has joined the server (0:127.0.0.1)
+[01:15:04] Cadstrado e logado
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:08:23] filterscripts = ""  (string)
+[15:08:23] 
+[15:08:23] Server Plugins
+[15:08:23] --------------
+[15:08:23]  Loading plugin: mysql
+[15:08:23]  >> plugin.mysql: R39-3 successfully loaded.
+[15:08:23]   Loaded.
+[15:08:23]  Loaded 1 plugins.
+
+[15:08:23] 
+[15:08:23] Filterscripts
+[15:08:23] ---------------
+[15:08:23]   Loaded 0 filterscripts.
+
+[15:08:23] Conected
+[15:08:23] 
+----------------------------------
+[15:08:23]  Blank Gamemode by your name here
+[15:08:23] ----------------------------------
+
+[15:08:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:17:06] filterscripts = ""  (string)
+[17:17:06] 
+[17:17:06] Server Plugins
+[17:17:06] --------------
+[17:17:06]  Loading plugin: mysql
+[17:17:06]  >> plugin.mysql: R39-3 successfully loaded.
+[17:17:06]   Loaded.
+[17:17:06]  Loaded 1 plugins.
+
+[17:17:06] 
+[17:17:06] Filterscripts
+[17:17:06] ---------------
+[17:17:06]   Loaded 0 filterscripts.
+
+[17:17:06] Conected
+[17:17:06] 
+----------------------------------
+[17:17:06]  Blank Gamemode by your name here
+[17:17:06] ----------------------------------
+
+[17:17:06] Number of vehicle models: 0
+[17:18:01] [connection] 127.0.0.1:61114 requests connection cookie.
+[17:18:02] [connection] incoming connection: 127.0.0.1:61114 id: 0
+[17:18:02] [join] Mr_Fabugo has joined the server (0:127.0.0.1)
+[17:18:16] [part] Mr_Fabugo has left the server (0:2)
+[17:18:53] [connection] 127.0.0.1:60731 requests connection cookie.
+[17:18:54] [connection] incoming connection: 127.0.0.1:60731 id: 0
+[17:18:55] [join] Pedro_Mota has joined the server (0:127.0.0.1)
+[17:19:03] Cadstrado e logado
+[17:19:51] [part] Pedro_Mota has left the server (0:1)
