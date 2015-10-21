@@ -9,3 +9,7 @@
 [01:07:25] [WARNING] CMySQLResult::GetRowData - invalid row ('0') or field index ('0')
 [01:15:01] [WARNING] CMySQLResult::GetRowData - invalid row ('0') or field index ('0')
 [17:18:55] [WARNING] CMySQLResult::GetRowData - invalid row ('0') or field index ('0')
+[21:44:37] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:44:38] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:44:38] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:44:38] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)

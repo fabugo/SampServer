@@ -1122,3 +1122,34 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [17:18:55] [join] Pedro_Mota has joined the server (0:127.0.0.1)
 [17:19:03] Cadstrado e logado
 [17:19:51] [part] Pedro_Mota has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:44:36] filterscripts = ""  (string)
+[21:44:36] 
+[21:44:36] Server Plugins
+[21:44:36] --------------
+[21:44:36]  Loading plugin: mysql
+[21:44:36]  >> plugin.mysql: R39-3 successfully loaded.
+[21:44:36]   Loaded.
+[21:44:36]  Loaded 1 plugins.
+
+[21:44:36] 
+[21:44:36] Filterscripts
+[21:44:36] ---------------
+[21:44:36]   Loaded 0 filterscripts.
+
+[21:44:37] Could not connect to database!
+[21:44:37] 
+----------------------------------
+[21:44:37]  Blank Gamemode by your name here
+[21:44:37] ----------------------------------
+
+[21:44:37] Number of vehicle models: 0
+[21:44:46] --- Server Shutting Down.
